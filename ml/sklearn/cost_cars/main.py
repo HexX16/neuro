@@ -66,11 +66,11 @@ preprocessor_no_scale = ColumnTransformer([
 
 car = pd.DataFrame([{
     'brand': 'BMW',
-    'model': 'X7_M',
-    'year': 2023,
-    'mileage_km': 17000,
-    'engine_volume': 4.4,
-    'engine_hp': 600,
+    'model': '5 Series',
+    'year': 2020,
+    'mileage_km': 55000,
+    'engine_volume': 3.0,
+    'engine_hp': 300,
     'n_owners': 1,
     'transmission': 'Automatic',
     'body_type': 'Sedan'
